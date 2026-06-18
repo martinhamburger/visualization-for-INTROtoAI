@@ -11,6 +11,8 @@
 - `modified.py`：大视频，展示Transformer基础内容。
 - `update.py`：三个短视频，展示对原始架构做的改进。
 
+视频链接：[video_link](https://reurl.cc/YDgZ7O)
+
 可渲染的场景如下：
 
 | 文件 | 场景名称 | 内容 |
